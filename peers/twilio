@@ -8,7 +8,7 @@ connect "/usr/sbin/chat -v -f /etc/chatscripts/twilio"
 /dev/ttyUSB0
 
 # Specify the baud rate (bit/s) used in the PPP dial-up connection. For
-Huawei modules, it is recommended that you set this parameter to 115200
+# Huawei modules, it is recommended that you set this parameter to 115200
 115200
 
 # Disables the default behaviour when no local IP address is specified, which is to determine (if possible) the local IP address from the hostname. With this option, the peer will have to supply the local IP address during IPCP negotiation (unless it specified explicitly on the command line or in an options file).
