@@ -17,7 +17,7 @@ Type the following in a terminal:
 ```
 wget https://github.com/twilio/wireless-ppp-scripts/archive/master.zip
 unzip master.zip
-cd wireless-ppp-scripts
+cd wireless-ppp-scripts-master
 sudo cp chatscripts/twilio /etc/chatscripts
 sudo cp peers/twilio /etc/ppp/peers
 ```
