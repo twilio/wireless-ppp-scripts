@@ -21,10 +21,10 @@ cd wireless-ppp-scripts-master
 sudo cp chatscripts/twilio /etc/chatscripts
 sudo cp peers/twilio /etc/ppp/peers
 ```
-Thats it for the scripts. You can remove master.zip and wireless-ppp-scripts by typing the following in a terminal:
+Thats it for the scripts. You can remove master.zip and wireless-ppp-scripts-master by typing the following in a terminal:
 ```
 rm -rf master.zip
-rm -rf wireless-ppp-scripts
+rm -rf wireless-ppp-scripts-master
 ```
 ## Step 4. Shut down wifi if up
 Type the following in a terminal:
